@@ -1,0 +1,111 @@
+
+
+
+.pagina {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 85vh;
+    width: 100%;
+}
+.contacto{
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-bottom: 40px;
+    width: 35%;
+    /* border: solid #FFF; */
+   
+    float: left;
+    background-color: black;
+}
+
+.horario_div{
+    margin-top: 30px;
+    margin-right: 60px;
+    margin-bottom: 40px;
+    width: 35%;
+    /* border: solid #FFF; */
+    
+    float: right;
+    background-color: black;
+}
+
+.title_1 {
+    font-family: 'Poppins', sans-serif;
+    font:bold 20px ;
+    color: #FFF
+}
+
+.title_2 {
+    font-family: 'Poppins', sans-serif;
+    font:bold 20px ;
+    color: whitesmoke;
+    margin-left: 20px;
+}
+
+.text_1 {
+    font-family: 'Poppins', sans-serif;
+    font: 20px ;
+    color: whitesmoke;
+}
+
+.mapa {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    width: 90%;
+    height: 50px;
+    border: 2px solid black;
+    display: flex;
+    background-color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+}
+
+.direccion_div {
+    margin-top: 20px ;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+div.comentario input {
+    width: 90%;
+    height: 50px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#btn_enviar {
+    width: 60px;
+    height: 30px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    margin-left: 80%;
+}
+
+#mensaje {
+    margin-bottom: 30px;   
+    height: 100px;
+}
+
+.horario_text{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+div.horario_text h1 {
+    margin-bottom: 50px;
+}
+
+.redes {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+div.redes h1 {
+    margin-bottom: 10px;
+}
+
